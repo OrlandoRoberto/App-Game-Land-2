@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_biblioteca"
+        android:title="Minha Biblioteca"/>
+
+    <item
+        android:id="@+id/menu_perfil"
+        android:title="Meu Perfil"/>
+
+    <item
+        android:id="@+id/menu_logout"
+        android:title="Sair"/>
+
+</menu>
